@@ -25,7 +25,7 @@
 - 建议“简单”任务设置为5分钟内可完成的Demo试玩，或者Demo演示。
 - 建议“中等”、“困难”任务设置可以联合其他项目共同完成设置，这样既有利于开发者快速理解多个项目的技术逻辑，也有利于项目间的合作。
 
-|项目名称<div style="width: 50pt">|技术栈|项目简介|任务设置|奖品清单<div style="width: 50pt">|
+|项目名称<div style="width: 60pt">|技术栈|项目简介|任务设置|奖品清单<div style="width: 60pt">|
 |--|--|--|--|--|
 |[Shifu](https://shifu.run/zh-Hans/)|Kubernetes,<br />golang|[Shifu README](https://github.com/Edgenesis/shifu/blob/main/README-zh.md)|**简单:**<br />根据shifu.run技术文档，完成安装与部署Shifu ，并完成一个数字孪生案例的试玩。<br />**中级:**<br />根据shifu.run技术文档，通过Shifu连接现场的海康威视摄像头，并形成与真实设备的交互。<br />**高级:**<br />根据技术文档，使用Shifu + TDengine实现把Shifu采集到的数据输入到TDengine的时序数据库中进行处理后返回给应用程序。|贴纸<br />文化衫<br />保温杯<br />鼠标垫|
 
