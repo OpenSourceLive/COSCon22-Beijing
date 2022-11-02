@@ -1,4 +1,4 @@
-<div align=center># COSCon22-Beijing</div>
+# COSCon22-Beijing
 
 
 <div align="center">
